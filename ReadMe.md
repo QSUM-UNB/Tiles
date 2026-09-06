@@ -6,11 +6,13 @@
 
 <!-- ![Circuit assembly](</Assembly/Lock Circuit.jpg> "Circuit assembly for frequency-offest locking electronics") -->
 
-- © 2026 by P. Trottier and B. Barrett
 - PCB designs licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
-- All PCB designs were developed in KiCAD. The files for each tile are organized into the directory structure described below.
+- © 2026 by P. Trottier and B. Barrett
 
 ### Directory structure
+
+- All PCB designs were developed in KiCAD.
+- Files for each tile design are organized as follows.
 
 Directory  | Description
 -----------|-------------
